@@ -15,7 +15,7 @@ export PS1='\[\e[34;40m\][\A \[\e[31;40m\]MY \[\e[37m\]\w]\$ \[\e[m\]'
 LS_COLORS='di=34:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=35:*.rpm=90:*.cc=37:*.c=37:*.cpp=37:*.h=92:*.o=94'
 export $LS_COLORS
 
-wp="${HOME}workspace"
+wp="${HOME}/workspace"
 
 # useful alias to jump into dir or extends commands
 alias ls='ls --color'
